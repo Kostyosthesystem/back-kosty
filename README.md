@@ -29,4 +29,4 @@ loadstring(game:HttpGet("(https://raw.githubusercontent.com/Kostyosthesystem/bac
 # loadstring 2 (LOCAL)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kostyosthesystem/back-kosty/refs/heads/main/executor/executorandhub.lua", true))()
 # loadstring 3 (SERVERSIDE IN F3X)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kostyosthesystem/back-kosty/refs/heads/main/server-side/project%20360%20(ONLY%20F3X%20GAMES).lua", true)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kostyosthesystem/back-kosty/refs/heads/main/server-side/project%20360%20ONLY%20F3X%20GAMES.lua", true)()
