@@ -17,6 +17,26 @@ local Converted = {
 	["_LocalScript2"] = Instance.new("LocalScript");
 	["_TextButton1"] = Instance.new("TextButton");
 	["_LocalScript3"] = Instance.new("LocalScript");
+	["_TextButton2"] = Instance.new("TextButton");
+	["_LocalScript4"] = Instance.new("LocalScript");
+	["_TextButton3"] = Instance.new("TextButton");
+	["_LocalScript5"] = Instance.new("LocalScript");
+	["_TextButton4"] = Instance.new("TextButton");
+	["_LocalScript6"] = Instance.new("LocalScript");
+	["_TextButton5"] = Instance.new("TextButton");
+	["_LocalScript7"] = Instance.new("LocalScript");
+	["_TextButton6"] = Instance.new("TextButton");
+	["_LocalScript8"] = Instance.new("LocalScript");
+	["_TextButton7"] = Instance.new("TextButton");
+	["_LocalScript9"] = Instance.new("LocalScript");
+	["_TextButton8"] = Instance.new("TextButton");
+	["_LocalScript10"] = Instance.new("LocalScript");
+	["_TextButton9"] = Instance.new("TextButton");
+	["_LocalScript11"] = Instance.new("LocalScript");
+	["_TextButton10"] = Instance.new("TextButton");
+	["_LocalScript12"] = Instance.new("LocalScript");
+	["_TextButton11"] = Instance.new("TextButton");
+	["_LocalScript13"] = Instance.new("LocalScript");
 }
 
 -- Properties:
@@ -27,13 +47,13 @@ Converted["_Frame"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_Frame"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_Frame"].BorderSizePixel = 0
 Converted["_Frame"].Position = UDim2.new(0, 0, 0.366956919, 0)
-Converted["_Frame"].Size = UDim2.new(0, 498, 0, 325)
+Converted["_Frame"].Size = UDim2.new(0, 670, 0, 325)
 Converted["_Frame"].Parent = Converted["_ScreenGui"]
 
 Converted["_Frame1"].BackgroundColor3 = Color3.fromRGB(170.0000050663948, 0, 255)
 Converted["_Frame1"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_Frame1"].BorderSizePixel = 0
-Converted["_Frame1"].Size = UDim2.new(0, 498, 0, 35)
+Converted["_Frame1"].Size = UDim2.new(0, 670, 0, 35)
 Converted["_Frame1"].Parent = Converted["_Frame"]
 
 Converted["_TextLabel"].Font = Enum.Font.SourceSans
@@ -44,7 +64,7 @@ Converted["_TextLabel"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextLabel"].BackgroundTransparency = 1
 Converted["_TextLabel"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_TextLabel"].BorderSizePixel = 0
-Converted["_TextLabel"].Size = UDim2.new(0, 498, 0, 35)
+Converted["_TextLabel"].Size = UDim2.new(0, 670, 0, 35)
 Converted["_TextLabel"].Parent = Converted["_Frame1"]
 
 Converted["_TextBox"].Font = Enum.Font.Cartoon
@@ -69,7 +89,7 @@ Converted["_execute"].Style = Enum.ButtonStyle.RobloxButtonDefault
 Converted["_execute"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_execute"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_execute"].BorderSizePixel = 0
-Converted["_execute"].Position = UDim2.new(0.827309251, 0, 0.107692309, 0)
+Converted["_execute"].Position = UDim2.new(0.614759982, 0, 0.110769227, 0)
 Converted["_execute"].Size = UDim2.new(0, 86, 0, 50)
 Converted["_execute"].Name = "execute"
 Converted["_execute"].Parent = Converted["_Frame"]
@@ -82,7 +102,7 @@ Converted["_TextButton"].Style = Enum.ButtonStyle.RobloxButtonDefault
 Converted["_TextButton"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextButton"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_TextButton"].BorderSizePixel = 0
-Converted["_TextButton"].Position = UDim2.new(0.827309251, 0, 0.421538472, 0)
+Converted["_TextButton"].Position = UDim2.new(0.614759982, 0, 0.424615383, 0)
 Converted["_TextButton"].Size = UDim2.new(0, 86, 0, 50)
 Converted["_TextButton"].Parent = Converted["_Frame"]
 
@@ -94,7 +114,7 @@ Converted["_exec1"].Style = Enum.ButtonStyle.RobloxButtonDefault
 Converted["_exec1"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_exec1"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_exec1"].BorderSizePixel = 0
-Converted["_exec1"].Position = UDim2.new(0.827309251, 0, 0.261538476, 0)
+Converted["_exec1"].Position = UDim2.new(0.614759982, 0, 0.264615387, 0)
 Converted["_exec1"].Size = UDim2.new(0, 86, 0, 50)
 Converted["_exec1"].Name = "exec1"
 Converted["_exec1"].Parent = Converted["_Frame"]
@@ -107,9 +127,129 @@ Converted["_TextButton1"].Style = Enum.ButtonStyle.RobloxButtonDefault
 Converted["_TextButton1"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextButton1"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_TextButton1"].BorderSizePixel = 0
-Converted["_TextButton1"].Position = UDim2.new(0.827309251, 0, 0.575384617, 0)
+Converted["_TextButton1"].Position = UDim2.new(0.614759982, 0, 0.578461528, 0)
 Converted["_TextButton1"].Size = UDim2.new(0, 86, 0, 50)
 Converted["_TextButton1"].Parent = Converted["_Frame"]
+
+Converted["_TextButton2"].Font = Enum.Font.SourceSans
+Converted["_TextButton2"].Text = "fly gui v3"
+Converted["_TextButton2"].TextColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton2"].TextSize = 14
+Converted["_TextButton2"].Style = Enum.ButtonStyle.RobloxButtonDefault
+Converted["_TextButton2"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton2"].BorderColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_TextButton2"].BorderSizePixel = 0
+Converted["_TextButton2"].Position = UDim2.new(0.614759982, 0, 0.732307673, 0)
+Converted["_TextButton2"].Size = UDim2.new(0, 86, 0, 50)
+Converted["_TextButton2"].Parent = Converted["_Frame"]
+
+Converted["_TextButton3"].Font = Enum.Font.SourceSans
+Converted["_TextButton3"].Text = "c00lgui"
+Converted["_TextButton3"].TextColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton3"].TextSize = 14
+Converted["_TextButton3"].Style = Enum.ButtonStyle.RobloxButtonDefault
+Converted["_TextButton3"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton3"].BorderColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_TextButton3"].BorderSizePixel = 0
+Converted["_TextButton3"].Position = UDim2.new(0.747681201, 0, 0.110769227, 0)
+Converted["_TextButton3"].Size = UDim2.new(0, 86, 0, 50)
+Converted["_TextButton3"].Parent = Converted["_Frame"]
+
+Converted["_TextButton4"].Font = Enum.Font.SourceSans
+Converted["_TextButton4"].Text = "john doe"
+Converted["_TextButton4"].TextColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton4"].TextSize = 14
+Converted["_TextButton4"].Style = Enum.ButtonStyle.RobloxButtonDefault
+Converted["_TextButton4"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton4"].BorderColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_TextButton4"].BorderSizePixel = 0
+Converted["_TextButton4"].Position = UDim2.new(0.746135652, 0, 0.264615387, 0)
+Converted["_TextButton4"].Size = UDim2.new(0, 86, 0, 50)
+Converted["_TextButton4"].Parent = Converted["_Frame"]
+
+Converted["_TextButton5"].Font = Enum.Font.SourceSans
+Converted["_TextButton5"].Text = "knife v3"
+Converted["_TextButton5"].TextColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton5"].TextSize = 14
+Converted["_TextButton5"].Style = Enum.ButtonStyle.RobloxButtonDefault
+Converted["_TextButton5"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton5"].BorderColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_TextButton5"].BorderSizePixel = 0
+Converted["_TextButton5"].Position = UDim2.new(0.746135652, 0, 0.424615383, 0)
+Converted["_TextButton5"].Size = UDim2.new(0, 86, 0, 50)
+Converted["_TextButton5"].Parent = Converted["_Frame"]
+
+Converted["_TextButton6"].Font = Enum.Font.SourceSans
+Converted["_TextButton6"].Text = "fe bypass gui"
+Converted["_TextButton6"].TextColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton6"].TextSize = 14
+Converted["_TextButton6"].Style = Enum.ButtonStyle.RobloxButtonDefault
+Converted["_TextButton6"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton6"].BorderColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_TextButton6"].BorderSizePixel = 0
+Converted["_TextButton6"].Position = UDim2.new(0.746135652, 0, 0.578461528, 0)
+Converted["_TextButton6"].Size = UDim2.new(0, 86, 0, 50)
+Converted["_TextButton6"].Parent = Converted["_Frame"]
+
+Converted["_TextButton7"].Font = Enum.Font.SourceSans
+Converted["_TextButton7"].Text = "prizz life"
+Converted["_TextButton7"].TextColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton7"].TextSize = 14
+Converted["_TextButton7"].Style = Enum.ButtonStyle.RobloxButtonDefault
+Converted["_TextButton7"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton7"].BorderColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_TextButton7"].BorderSizePixel = 0
+Converted["_TextButton7"].Position = UDim2.new(0.746135652, 0, 0.732307673, 0)
+Converted["_TextButton7"].Size = UDim2.new(0, 86, 0, 50)
+Converted["_TextButton7"].Parent = Converted["_Frame"]
+
+Converted["_TextButton8"].Font = Enum.Font.SourceSans
+Converted["_TextButton8"].Text = "BTools"
+Converted["_TextButton8"].TextColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton8"].TextSize = 14
+Converted["_TextButton8"].Style = Enum.ButtonStyle.RobloxButtonDefault
+Converted["_TextButton8"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton8"].BorderColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_TextButton8"].BorderSizePixel = 0
+Converted["_TextButton8"].Position = UDim2.new(0.874632359, 0, 0.110769227, 0)
+Converted["_TextButton8"].Size = UDim2.new(0, 83, 0, 50)
+Converted["_TextButton8"].Parent = Converted["_Frame"]
+
+Converted["_TextButton9"].Font = Enum.Font.SourceSans
+Converted["_TextButton9"].Text = "old anim"
+Converted["_TextButton9"].TextColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton9"].TextSize = 14
+Converted["_TextButton9"].Style = Enum.ButtonStyle.RobloxButtonDefault
+Converted["_TextButton9"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton9"].BorderColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_TextButton9"].BorderSizePixel = 0
+Converted["_TextButton9"].Position = UDim2.new(0.873139799, 0, 0.264615387, 0)
+Converted["_TextButton9"].Size = UDim2.new(0, 83, 0, 50)
+Converted["_TextButton9"].Parent = Converted["_Frame"]
+
+Converted["_TextButton10"].Font = Enum.Font.SourceSans
+Converted["_TextButton10"].Text = "fe bypass"
+Converted["_TextButton10"].TextColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton10"].TextSize = 14
+Converted["_TextButton10"].Style = Enum.ButtonStyle.RobloxButtonDefault
+Converted["_TextButton10"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton10"].BorderColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_TextButton10"].BorderSizePixel = 0
+Converted["_TextButton10"].Position = UDim2.new(0.873139799, 0, 0.424615383, 0)
+Converted["_TextButton10"].Size = UDim2.new(0, 83, 0, 50)
+Converted["_TextButton10"].Parent = Converted["_Frame"]
+
+Converted["_TextButton11"].Font = Enum.Font.SourceSans
+Converted["_TextButton11"].Text = "lag server"
+Converted["_TextButton11"].TextColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton11"].TextSize = 14
+Converted["_TextButton11"].Style = Enum.ButtonStyle.RobloxButtonDefault
+Converted["_TextButton11"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_TextButton11"].BorderColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_TextButton11"].BorderSizePixel = 0
+Converted["_TextButton11"].Position = UDim2.new(0.873139799, 0, 0.578461528, 0)
+Converted["_TextButton11"].Size = UDim2.new(0, 83, 0, 50)
+Converted["_TextButton11"].Parent = Converted["_Frame"]
 
 -- Fake Module Scripts:
 
@@ -118,7 +258,7 @@ local fake_module_scripts = {}
 
 -- Fake Local Scripts:
 
-local function SVEUO_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.UIDrag
+local function SOBC_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.UIDrag
     local script = Instance.new("LocalScript")
     script.Name = "UIDrag"
     script.Parent = Converted["_Frame"]
@@ -169,7 +309,7 @@ local function SVEUO_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.UI
 		end
 	end)
 end
-local function VZBC_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
+local function EQYA_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton"]
@@ -191,7 +331,7 @@ local function VZBC_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.Tex
 	end)
 	
 end
-local function LIEUOL_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.LocalScript
+local function AFMELYU_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame"]
@@ -215,7 +355,7 @@ local function LIEUOL_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.L
 	end)
 	
 end
-local function NAPRYNO_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.LocalScript
+local function VDAYBYU_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame"]
@@ -242,7 +382,7 @@ local function NAPRYNO_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.
 	end)
 	
 end
-local function UYVL_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
+local function FPPYHIZ_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton1"]
@@ -5166,9 +5306,200 @@ local function UYVL_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.Tex
 	end)
 	
 end
+local function ZZRBE_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
+    local script = Instance.new("LocalScript")
+    script.Name = "LocalScript"
+    script.Parent = Converted["_TextButton2"]
+    local req = require
+    local require = function(obj)
+        local fake = fake_module_scripts[obj]
+        if fake then
+            return fake()
+        end
+        return req(obj)
+    end
 
-coroutine.wrap(SVEUO_fake_script)()
-coroutine.wrap(VZBC_fake_script)()
-coroutine.wrap(LIEUOL_fake_script)()
-coroutine.wrap(NAPRYNO_fake_script)()
-coroutine.wrap(UYVL_fake_script)()
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
+	end)
+	
+end
+local function BAMZ_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
+    local script = Instance.new("LocalScript")
+    script.Name = "LocalScript"
+    script.Parent = Converted["_TextButton3"]
+    local req = require
+    local require = function(obj)
+        local fake = fake_module_scripts[obj]
+        if fake then
+            return fake()
+        end
+        return req(obj)
+    end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/MiRw3b/c00lgui-v3rx/main/c00lguiv3rx.lua"))()
+	end)
+	
+end
+local function WFKH_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
+    local script = Instance.new("LocalScript")
+    script.Name = "LocalScript"
+    script.Parent = Converted["_TextButton4"]
+    local req = require
+    local require = function(obj)
+        local fake = fake_module_scripts[obj]
+        if fake then
+            return fake()
+        end
+        return req(obj)
+    end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/retpirato/Roblox-Scripts/refs/heads/master/John%20Doe.lua"))()
+	end)
+	
+end
+local function LKNG_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
+    local script = Instance.new("LocalScript")
+    script.Name = "LocalScript"
+    script.Parent = Converted["_TextButton5"]
+    local req = require
+    local require = function(obj)
+        local fake = fake_module_scripts[obj]
+        if fake then
+            return fake()
+        end
+        return req(obj)
+    end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Cycybersucz/Roblox-Grab-Knifev3-Script/refs/heads/main/Roblox-Grab-Knifev3-Script.txt"))()
+	end)
+	
+end
+local function OQFSZG_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
+    local script = Instance.new("LocalScript")
+    script.Name = "LocalScript"
+    script.Parent = Converted["_TextButton6"]
+    local req = require
+    local require = function(obj)
+        local fake = fake_module_scripts[obj]
+        if fake then
+            return fake()
+        end
+        return req(obj)
+    end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\103\48\48\108\88\112\108\111\105\116\101\114\47\103\48\48\108\88\112\108\111\105\116\101\114\47\109\97\105\110\47\70\101\37\50\48\98\121\112\97\115\115\34\44\32\116\114\117\101\41\41\40\41\10")()
+	end)
+	
+end
+local function FSTZA_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
+    local script = Instance.new("LocalScript")
+    script.Name = "LocalScript"
+    script.Parent = Converted["_TextButton7"]
+    local req = require
+    local require = function(obj)
+        local fake = fake_module_scripts[obj]
+        if fake then
+            return fake()
+        end
+        return req(obj)
+    end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/devguy100/PrizzLife/main/Source/release_v0.8.1.lua'))()	
+	end)
+	
+end
+local function UTST_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
+    local script = Instance.new("LocalScript")
+    script.Name = "LocalScript"
+    script.Parent = Converted["_TextButton8"]
+    local req = require
+    local require = function(obj)
+        local fake = fake_module_scripts[obj]
+        if fake then
+            return fake()
+        end
+        return req(obj)
+    end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet(('https://gist.githubusercontent.com/jointeamck/6c597af23eef21fd0a61f78ae0c66f63/raw/1d34c80de178e3343ad85e34e8bb4e95045618ce/fe%2520btools%2520by%2520rouxhaver'),true))()	
+	end)
+	
+end
+local function UBUBXW_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
+    local script = Instance.new("LocalScript")
+    script.Name = "LocalScript"
+    script.Parent = Converted["_TextButton9"]
+    local req = require
+    local require = function(obj)
+        local fake = fake_module_scripts[obj]
+        if fake then
+            return fake()
+        end
+        return req(obj)
+    end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet(('https://rawscripts.net/raw/Universal-Script-Fe-Classic-Animations-2971'),true))()	
+	end)
+	
+end
+local function VMZXB_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
+    local script = Instance.new("LocalScript")
+    script.Name = "LocalScript"
+    script.Parent = Converted["_TextButton10"]
+    local req = require
+    local require = function(obj)
+        local fake = fake_module_scripts[obj]
+        if fake then
+            return fake()
+        end
+        return req(obj)
+    end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService("ReplicatedStorage").Events.RemoteEvents.CollectOutfit:FireServer()
+	end)
+	
+end
+local function AQHCD_fake_script() -- Fake Script: StarterGui.ScreenGui.Frame.TextButton.LocalScript
+    local script = Instance.new("LocalScript")
+    script.Name = "LocalScript"
+    script.Parent = Converted["_TextButton11"]
+    local req = require
+    local require = function(obj)
+        local fake = fake_module_scripts[obj]
+        if fake then
+            return fake()
+        end
+        return req(obj)
+    end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService("ReplicatedStorage").Events.RemoteEvents.Elevator:FireServer(game:GetService("Workspace").Terrain, true)
+		wait(1)
+	end)
+	
+end
+
+coroutine.wrap(SOBC_fake_script)()
+coroutine.wrap(EQYA_fake_script)()
+coroutine.wrap(AFMELYU_fake_script)()
+coroutine.wrap(VDAYBYU_fake_script)()
+coroutine.wrap(FPPYHIZ_fake_script)()
+coroutine.wrap(ZZRBE_fake_script)()
+coroutine.wrap(BAMZ_fake_script)()
+coroutine.wrap(WFKH_fake_script)()
+coroutine.wrap(LKNG_fake_script)()
+coroutine.wrap(OQFSZG_fake_script)()
+coroutine.wrap(FSTZA_fake_script)()
+coroutine.wrap(UTST_fake_script)()
+coroutine.wrap(UBUBXW_fake_script)()
+coroutine.wrap(VMZXB_fake_script)()
+coroutine.wrap(AQHCD_fake_script)()
